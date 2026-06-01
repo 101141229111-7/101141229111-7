@@ -6,7 +6,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=101141229111-7&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/101141229111-7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-janavika--g-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/janavika-g-0435412a2)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Janavika%20G-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Janavika-G)
+[![LeetCode](https://img.shields.io/badge/LeetCode-XIc6jCKttJ-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/XIc6jCKttJ/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-janu__012006-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/janu_012006)
 [![Email](https://img.shields.io/badge/Email-janu012006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:janu012006@gmail.com)
 
 </div>
@@ -93,11 +94,19 @@
 
 ---
 
-## ⚡ LeetCode Statistics
+## ⚡ LeetCode & CodeChef Statistics
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Janavika-G?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Janavika-G)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/XIc6jCKttJ?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/XIc6jCKttJ/)
+
+</div>
+
+<div align="center">
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-janu__012006-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/janu_012006)
+
+> 🍴 Visit my [CodeChef Profile](https://www.codechef.com/users/janu_012006) to see my contest ratings and solutions!
 
 </div>
 
